@@ -1,5 +1,4 @@
 # Learn-Node-JS
-Little Repo to teach my friends to programm in TypeScript
 
 # Temarios
 
@@ -7,7 +6,7 @@ Little Repo to teach my friends to programm in TypeScript
 
 0. [¿Qué es JavaScript?](./sections/00-que-es-javascript.md)
     - [Ejecutar Hola Mundo](./sections/00-que-es-javascript.md#01-ejecutar-hola-mundo)
-1. [Node y entornos de ejecución]()
+1. [Node y entornos de ejecución](./sections/01-node-y-entornos.md)
     - [¿Qué es un entorno de ejecución y por qué existen?]()
     - [Node]()
     - [Deno]()
