@@ -94,7 +94,7 @@ En JavaScript, al igual que todos los lenguajes de programación, podemos crear 
 
 # 3.1.1 Let
 
-La palabra `let` es una palabra reservada propia del lenguaje. ¿Esto qué significa? Que cualquier palabra reservada del lenguaje como `var`, `for`, `while`, `class`, ... son palabras que son exclusivas para ejecutar hacer funcionalidad en el lenguaje de programación, y por ende, no se puede usar para otra cosa que no sea para eso.
+La palabra `let` es una palabra reservada propia del lenguaje. ¿Esto qué significa? Que cualquier palabra reservada del lenguaje como `var`, `for`, `while`, `class`, ... son palabras que son exclusivas para hacer ejecutar funcionalidad en el lenguaje de programación, y por ende, no se puede usar para otra cosa que no sea para eso.
 
 En el caso del `let`, es una palabra reservada para la declaración de variables. La sintaxis para declarar variables con `let` es `let clave = valor`.
 
@@ -147,7 +147,7 @@ No es obligatorio poner el `;`, y en este lenguaje, depende de tus gustos person
 Otra cosa más, en el ejemplo anterior puedes observar que he `cambiado` el valor de la variable persona.
 Esto se llama de distintas maneras (re-asignar un valor a una variable, cambiar valor de una variable, etc).
 
-Pero lo que hace es simplemente que a la misma clave que teníamos creada antes podamos cambiarle el valor que se almacena en la memoria RAM.
+Pero lo que hace es simplemente que, a la misma clave que teníamos creada antes, podamos cambiarle el valor que se almacena en la memoria RAM.
 
 ```javascript
 let nombre = 'David'; // El valor asociado a 'nombre' es 'David'
