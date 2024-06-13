@@ -22,7 +22,7 @@
 3. [Javascript](./sections/03-javascript.md)
     - [Variables](./sections/03-javascript.md#31-variables)
         - [let](./sections/03-javascript.md#311-let)
-        - [const]()
+        - [const](./sections/03-javascript.md#312-const)
         - [var [no recomendado]]()
         - [Tipos de variables primitivos]()
             - [number]()

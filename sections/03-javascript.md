@@ -4,7 +4,7 @@
 
 - [Variables](#31-variables)
     - [let](#311-let)
-    - [const]()
+    - [const](#312-const)
     - [var [no recomendado]]()
     - [Tipos de variables primitivos]()
         - [number]()
@@ -162,3 +162,20 @@ Información adicional que tocaremos más tarde:
 
 Más información:
 - [Let - JavaScript | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/let)
+
+# 3.1.2 Const
+
+La palabra `const`, al igual que `let`, es una palabra propia reservada del lenguaje. Al igual que el `let`, el `const` se usa para la declaración de variables. Solo que estas son inmutables (no se le puede cambiar el valor a la variable).
+
+```javascript
+let animal = 'Perro'; // Creamos variable animal con el valor 'Perro'
+animal = 'Gato'; // Cambiamos el valor de la variable animal a 'Gato'
+
+const propietario = 'David' // En este caso la variable 'propietario' SIEMPRE será 'David'
+propietario = 'Harry' // El código fallará y se cortará la ejecución del programa porque no se puede cambiar el valor a una variable inmutable (constante)
+```
+
+De resto, a excepción de ser inmutable, comparte las mismas características que `let`.
+
+Más información:
+- [Const - JavaScript | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/const)
